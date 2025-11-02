@@ -27,14 +27,3 @@ que permite comparar Pokémon, consultar fichas detalladas y obtener un veredict
 - **Matplotlib**
 
 ---
-
-## 🚀 Ejecución del proyecto
-
-1. Crea un entorno virtual e instálalo:
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   pip install -r requirements.txt
-
-2. Ejecuta la aplicación streamlit:
-    streamlit run app.py
